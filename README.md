@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Nisarg0007/Nisarg0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on android development.
+- 🌱 I’m currently learning Python and Java.
+- 👯 I have gained interest in programming recently and looking forward to discover the world of programming.
+- ⚡ Fun/Bad fact: I am a beginner
+
+
+<div>
+  <h1>My Stats though very bad.</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nisarg007&&show_icons=true&theme=nord">
+  <h2>Languages I use</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg0007&theme=nord">
+</div>
