@@ -10,7 +10,7 @@
 
 <div>
   <h1>My Stats though very bad.</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nisarg007&&show_icons=true&theme=nord">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nisarg007&&show_icons=true&theme=tokyonight&count_private=true">
   <h2>Languages I use</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg0007&theme=nord">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarg0007&theme=tokyonight">
 </div>
